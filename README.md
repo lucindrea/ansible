@@ -1,3 +1,8 @@
+This is a clone of <insert url here> 
+i do not claim this as min personaly - i only have this as a referance when i need. 
+
+
+
 proxmox-cloud-init
 =========
 This role configures and sets up three ubuntu templates on the proxmox server. The templates are used to create new VMs with cloud-init support.
